@@ -181,6 +181,7 @@ The revenue optimization and customer lifecycle management stage. This final pha
 ### Sales Pipeline Management
 
 - [Clari](https://www.clari.com/) - Revenue Orchestration with AI deal inspection and trend analysis
+- [CRMlead](https://crmlead.io/) - Lead CRM for SMBs with AI email summaries and reply drafts; free up to 50 leads
 - [Pipedrive](https://www.pipedrive.com/) - User-friendly CRM with AI Sales Assistant and predictive scoring
 - [Relevance AI](https://relevanceai.com/) - Custom AI agents for sales pipeline management
 - [Salesforce Sales Cloud](https://www.salesforce.com/products/sales-cloud/) - #1 AI CRM with Einstein capabilities
